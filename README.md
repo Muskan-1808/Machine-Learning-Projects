@@ -1,1 +1,1 @@
-# Machine-Learning-Projects
+# This project predicts employee slaries based on multiple features such as job title, experience,location, and company size using regression algorithms.it includes data preprocessing,outlier detection,feature # scaling, model building,,evaluation and deployment. the goal is to help estimate fair salary ranges using real-world data and ML techniques.
